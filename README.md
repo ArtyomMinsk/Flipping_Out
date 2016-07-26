@@ -18,8 +18,8 @@ The motivation of this project is to:
 
 User must import the following:
 
-import math
-import random
-import statistics as st
-import numpy as np
-import matplotlib.pyplot as plt
+- import math
+- import random
+- import statistics as st
+- import numpy as np
+- import matplotlib.pyplot as plt
